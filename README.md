@@ -1,5 +1,4 @@
 # RocketSect
-https://marciosouzaa.github.io/RocketSect/ Desafio fase02 - recriando layout
+https://marciosouzaa.github.io/RocketSect/ 
 
-#Rocketseat
- 
+![App Screenshot](https://github.com/marciosouzaa/RocketSect/blob/main/prt1.png?raw=true) 
